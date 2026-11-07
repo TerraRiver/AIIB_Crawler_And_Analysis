@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.chrome_profile/
+.chrome_profile_chromium/
+.env
+data/
+*.tmp
+.DS_Store
