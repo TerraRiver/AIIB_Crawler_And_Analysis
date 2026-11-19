@@ -1,0 +1,244 @@
+{
+  "projects_overview": {
+    "bank_total_approved_projects": 386,
+    "bank_total_approved_usd_millions": 78471.0,
+    "india_approved_projects": 60,
+    "india_approved_usd_millions": 14451.25,
+    "india_project_count_share_percent": 15.54,
+    "india_funding_share_percent": 18.42,
+    "india_sovereign_projects": 35,
+    "india_nonsovereign_projects": 25,
+    "india_standalone_projects": 17,
+    "india_cofinanced_projects_in_list": 14,
+    "india_annual_trend": {
+      "2017": {
+        "project_count": 5,
+        "approved_usd_millions": 1074.0,
+        "sovereign_count": 4,
+        "nonsovereign_count": 1
+      },
+      "2018": {
+        "project_count": 5,
+        "approved_usd_millions": 1145.0,
+        "sovereign_count": 3,
+        "nonsovereign_count": 2
+      },
+      "2019": {
+        "project_count": 4,
+        "approved_usd_millions": 820.0,
+        "sovereign_count": 2,
+        "nonsovereign_count": 2
+      },
+      "2020": {
+        "project_count": 4,
+        "approved_usd_millions": 1950.0,
+        "sovereign_count": 3,
+        "nonsovereign_count": 1
+      },
+      "2021": {
+        "project_count": 9,
+        "approved_usd_millions": 1940.67,
+        "sovereign_count": 8,
+        "nonsovereign_count": 1
+      },
+      "2022": {
+        "project_count": 8,
+        "approved_usd_millions": 1869.0,
+        "sovereign_count": 6,
+        "nonsovereign_count": 2
+      },
+      "2023": {
+        "project_count": 6,
+        "approved_usd_millions": 1104.75,
+        "sovereign_count": 3,
+        "nonsovereign_count": 3
+      },
+      "2024": {
+        "project_count": 8,
+        "approved_usd_millions": 1058.22,
+        "sovereign_count": 3,
+        "nonsovereign_count": 5
+      },
+      "2025": {
+        "project_count": 6,
+        "approved_usd_millions": 1639.61,
+        "sovereign_count": 2,
+        "nonsovereign_count": 4
+      },
+      "2026": {
+        "project_count": 5,
+        "approved_usd_millions": 1850.0,
+        "sovereign_count": 1,
+        "nonsovereign_count": 4
+      }
+    },
+    "india_sector_distribution": {
+      "Energy": {
+        "project_count": 14,
+        "approved_usd_millions": 2854.11
+      },
+      "Urban": {
+        "project_count": 5,
+        "approved_usd_millions": 655.0
+      },
+      "Multi-sector": {
+        "project_count": 12,
+        "approved_usd_millions": 2580.0
+      },
+      "Transport": {
+        "project_count": 20,
+        "approved_usd_millions": 4942.14
+      },
+      "Water": {
+        "project_count": 4,
+        "approved_usd_millions": 920.0
+      },
+      "Education Infrastructure": {
+        "project_count": 1,
+        "approved_usd_millions": 250.0
+      },
+      "CRF-Public Health": {
+        "project_count": 2,
+        "approved_usd_millions": 1000.0
+      },
+      "CRF-Economic Resilience/PBF": {
+        "project_count": 2,
+        "approved_usd_millions": 1250.0
+      }
+    }
+  },
+  "india_project_details_analysis": {
+    "analyzed_india_detail_pages": 72,
+    "fi_or_onlending_count": 29,
+    "cofinanced_detected_count": 37,
+    "cofinancier_breakdown": {
+      "World Bank": 13,
+      "ADB": 12,
+      "IFC": 11,
+      "AFD": 1,
+      "NDB": 1,
+      "EIB": 1
+    },
+    "es_category_breakdown": {
+      "Category B": 32,
+      "FI": 20,
+      "Category A": 16,
+      "Category C": 3,
+      "Unspecified": 1
+    },
+    "applicable_es_policy_breakdown": {
+      "AIIB ESP": 62,
+      "Cofinancier Policy (ADB)": 7,
+      "Cofinancier Policy (IFC)": 1,
+      "Cofinancier Policy (ADB, IFC)": 1,
+      "Cofinancier Policy (World Bank)": 1
+    },
+    "indian_states_distribution": {
+      "Nationwide / Multi-State": 29,
+      "Maharashtra": 9,
+      "Andhra Pradesh": 7,
+      "Tamil Nadu": 7,
+      "Kerala": 6,
+      "Assam": 4,
+      "Gujarat": 4,
+      "Haryana": 3,
+      "Delhi (NCT)": 3,
+      "Karnataka": 3,
+      "Rajasthan": 3,
+      "Madhya Pradesh": 3,
+      "West Bengal": 2,
+      "Manipur": 2,
+      "Uttar Pradesh": 2,
+      "Odisha": 2,
+      "Chhattisgarh": 2,
+      "Punjab": 1,
+      "Meghalaya": 1,
+      "Telangana": 1
+    },
+    "approval_lag_days_avg": 353.4,
+    "approval_lag_days_median": 239,
+    "approval_lag_sample_size": 55
+  },
+  "governance_and_leverage": {
+    "voting_power_update_date": "",
+    "india_subscription_usd_millions": 8367.3,
+    "india_subscription_share_percent": 8.5702,
+    "india_voting_power_votes": 85560,
+    "india_voting_power_share_percent": 7.5272,
+    "india_loan_to_equity_leverage_ratio": 2.149,
+    "india_loan_to_voting_power_ratio": 2.447,
+    "top_5_shareholders": [
+      {
+        "record_id": "member:China",
+        "economy": "China",
+        "member_group": "Regional",
+        "join_date": "Dec 25, 2015",
+        "subscription_amount_usd_millions": 29780.4,
+        "subscription_percent": 30.5026,
+        "voting_power_votes": 299691,
+        "voting_power_percent": 26.3656
+      },
+      {
+        "record_id": "member:India",
+        "economy": "India",
+        "member_group": "Regional",
+        "join_date": "Jan 11, 2016",
+        "subscription_amount_usd_millions": 8367.3,
+        "subscription_percent": 8.5702,
+        "voting_power_votes": 85560,
+        "voting_power_percent": 7.5272
+      },
+      {
+        "record_id": "member:Russia",
+        "economy": "Russia",
+        "member_group": "Regional",
+        "join_date": "Dec 28, 2015",
+        "subscription_amount_usd_millions": 6536.2,
+        "subscription_percent": 6.6947,
+        "voting_power_votes": 67249,
+        "voting_power_percent": 5.9163
+      },
+      {
+        "record_id": "member:Germany",
+        "economy": "Germany",
+        "member_group": "Non-Regional",
+        "join_date": "Dec 25, 2015",
+        "subscription_amount_usd_millions": 4484.2,
+        "subscription_percent": 4.593,
+        "voting_power_votes": 46729,
+        "voting_power_percent": 4.111
+      },
+      {
+        "record_id": "member:Korea",
+        "economy": "Korea",
+        "member_group": "Regional",
+        "join_date": "Dec 25, 2015",
+        "subscription_amount_usd_millions": 3738.7,
+        "subscription_percent": 3.8294,
+        "voting_power_votes": 39274,
+        "voting_power_percent": 3.4552
+      }
+    ]
+  },
+  "accountability_and_es_friction": {
+    "bank_total_ppm_submissions": 45,
+    "india_ppm_submissions": 14,
+    "india_ppm_share_percent": 31.11,
+    "ppm_submissions_by_economy": {
+      "India": 14,
+      "Bangladesh": 12,
+      "Pakistan": 6,
+      "Uzbekistan": 5,
+      "Türkiye": 3,
+      "Sri Lanka": 1,
+      "China": 1,
+      "Chile": 1,
+      "Georgia": 1,
+      "Kazakhstan": 1
+    },
+    "india_dropped_pipeline_projects_in_ppm": [
+      "Extension, Renovation, and Modernization of Grand Anicut Canal System",
+      "Mumbai Metro Line 4 (Line 4 (Wadala – Kasarvadavali) Project"
+    ]
+  }
+}

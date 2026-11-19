@@ -7,6 +7,43 @@ __pycache__/
 .chrome_profile/
 .chrome_profile_chromium/
 .env
-data/
 *.tmp
 .DS_Store
+
+# ==========================================================
+# 数据与文献大文件协同忽略策略：
+# - 保留进入 Git：全部结构化 JSON 快照 (~9 MB)、中标合同总表 Excel (437 KB)、
+#   绘图必需的印度邦级地图 GeoJSON (india_states_telangana.geojson)
+# - 忽略（改走共享盘 / Syncthing 同步）：全部大体积 PDF 原件、MinerU 解析产物、
+#   爬虫断点状态、历史备份目录，以及 papers/ 文献资料库
+# ==========================================================
+data/*
+!data/*.json
+data/state.json
+!data/india_states_telangana.geojson
+
+!data/projects/
+data/projects/*
+!data/projects/*.json
+
+!data/procurement/
+data/procurement/*
+!data/procurement/*.json
+!data/procurement/files/
+data/procurement/files/*
+!data/procurement/files/*.xlsx
+
+!data/governance/
+data/governance/*
+!data/governance/*.json
+
+!data/accountability/
+data/accountability/*
+!data/accountability/*.json
+
+!data/institutions/
+data/institutions/*
+!data/institutions/institutions_index.json
+
+# 文献资料库（知网 PDF 与 57 篇智库/媒体全文，走共享盘同步）
+papers/

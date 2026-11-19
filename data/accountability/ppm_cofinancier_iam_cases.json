@@ -1,0 +1,157 @@
+{
+  "cofinanced_projects_pdf_url": "",
+  "subtotal": {
+    "adb_am_count": 60,
+    "ebrd_ipam_count": 2,
+    "eib_cm_count": 8,
+    "ifc_cao_count": 8,
+    "world_bank_am_count": 2,
+    "total_count": 80
+  },
+  "cofinancier_iam_cases": [
+    {
+      "no": 1,
+      "economy": "Tajikistan",
+      "project_name": "Rogun Hydropower Development Project",
+      "project_url": "https://www.aiib.org/en/projects/details/2024/approved/Tajikistan-Rogun-Hydropower-Development-Project-Phase-1.html",
+      "adb_am_count": 0,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 2,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 1,
+      "total_count": 3
+    },
+    {
+      "no": 2,
+      "economy": "Kazakhstan",
+      "project_name": "Shokpar 100MW Wind Power Project",
+      "project_url": "https://www.aiib.org/en/projects/details/2023/approved/Kazakhstan-Shokpar-100MW-Wind-Power-Project.html",
+      "adb_am_count": 0,
+      "ebrd_ipam_count": 1,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 1
+    },
+    {
+      "no": 3,
+      "economy": "Pakistan",
+      "project_name": "Balakot Hydropower Development Project",
+      "project_url": "https://www.aiib.org/en/projects/details/2021/approved/Pakistan-Balakot-Hydropower-Development-Project.html",
+      "adb_am_count": 8,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 8
+    },
+    {
+      "no": 4,
+      "economy": "Pakistan",
+      "project_name": "Khyber Pakhtunkhwa Cities Improvement Project",
+      "project_url": "https://www.aiib.org/en/projects/details/2021/approved/Pakistan-Khyber-Pakhtunkhwa-Cities-Improvement-Project.html",
+      "adb_am_count": 20,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 20
+    },
+    {
+      "no": 5,
+      "economy": "Sri lanka",
+      "project_name": "COVID-19 Emergency and Crisis Response Facility",
+      "project_url": "https://www.aiib.org/en/projects/details/2021/approved/Sri-Lanka-COVID-19-Emergency-and-Crisis-Response-Facility.html",
+      "adb_am_count": 1,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 1
+    },
+    {
+      "no": 6,
+      "economy": "India",
+      "project_name": "Delhi-Meerut Regional Rapid Transit System",
+      "project_url": "https://www.aiib.org/en/projects/details/2020/approved/India-Delhi-Meerut-Regional-Rapid-Transit-System.html",
+      "adb_am_count": 3,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 3
+    },
+    {
+      "no": 7,
+      "economy": "Pakistan",
+      "project_name": "Karachi Bus Rapid Transit Red Line Project",
+      "project_url": "https://www.aiib.org/en/projects/details/2019/approved/Pakistan-Karachi-Bus-Rapid-Transit.html",
+      "adb_am_count": 22,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 22
+    },
+    {
+      "no": 8,
+      "economy": "Egypt",
+      "project_name": "Sustainable Rural Sanitation Services Program, Phase-2",
+      "project_url": "https://www.aiib.org/en/projects/details/2018/approved/Egypt-Sustainable-Rural-Sanitation-Services-Program-Phase-2.html",
+      "adb_am_count": 0,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 1,
+      "total_count": 1
+    },
+    {
+      "no": 9,
+      "economy": "Egypt",
+      "project_name": "Egypt Round II Solar PV Feed-in Tariffs Program",
+      "project_url": "https://www.aiib.org/en/projects/details/2017/approved/Egypt-Egypt-Round-II-Solar-PV-Feed-in-Tariffs-Program.html",
+      "adb_am_count": 0,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 8,
+      "world_bank_am_count": 0,
+      "total_count": 8
+    },
+    {
+      "no": 10,
+      "economy": "Georgia",
+      "project_name": "280 MW Nenskra Hydropower Plant (Proposed)",
+      "project_url": "https://www.aiib.org/en/projects/details/2017/proposed/Georgia-280-MW-Nenskra-Hydropower-Plant.html",
+      "adb_am_count": 1,
+      "ebrd_ipam_count": 1,
+      "eib_cm_count": 3,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 5
+    },
+    {
+      "no": 11,
+      "economy": "Georgia",
+      "project_name": "Batumi Bypass Project",
+      "project_url": "https://www.aiib.org/en/projects/details/2017/approved/Georgia-Batumi-Bypass-Road.html",
+      "adb_am_count": 5,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 0,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 5
+    },
+    {
+      "no": 12,
+      "economy": "India",
+      "project_name": "Bangalore Metro Rail Project – Line R6",
+      "project_url": "https://www.aiib.org/en/projects/details/2017/approved/India-Bangalore-Metro-Rail-Project-Line-R6.html",
+      "adb_am_count": 0,
+      "ebrd_ipam_count": 0,
+      "eib_cm_count": 3,
+      "ifc_cao_count": 0,
+      "world_bank_am_count": 0,
+      "total_count": 3
+    }
+  ]
+}

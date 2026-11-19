@@ -1,0 +1,36 @@
+{
+  "contract_awards_xlsx_url": "https://www.aiib.org/en/opportunities/business/project-procurement/_download/List-of-Contract-Awards_2016-2025.xlsx",
+  "annual_procurement_reports": [
+    {
+      "year": "2021",
+      "title": "2021 Annual Operational Procurement Report",
+      "url": "https://www.aiib.org/en/opportunities/business/project-procurement/_download/2021-AIIB-Annual-Operational-Procurement-Report_For-Disclosure.pdf",
+      "local_path": "procurement/files/2021-AIIB-Annual-Operational-Procurement-Report_For-Disclosure.pdf"
+    },
+    {
+      "year": "2022",
+      "title": "2022 Annual Operational Procurement Report",
+      "url": "https://www.aiib.org/en/opportunities/business/project-procurement/_download/2022-AIIB-Annual-Operational-Procurement-Report-Web.pdf",
+      "local_path": "procurement/files/2022-AIIB-Annual-Operational-Procurement-Report-Web.pdf"
+    },
+    {
+      "year": "2023",
+      "title": "2023 Annual Operational Procurement Report",
+      "url": "https://www.aiib.org/en/opportunities/business/project-procurement/_download/2023-AIIB-Annual-Operational-Procurement-Report.pdf",
+      "local_path": "procurement/files/2023-AIIB-Annual-Operational-Procurement-Report.pdf"
+    },
+    {
+      "year": "2024",
+      "title": "2024 Annual Operational Procurement Report",
+      "url": "https://www.aiib.org/en/opportunities/business/project-procurement/_download/2024-AIIB-Annual-Operational-Procurement-Report.pdf",
+      "local_path": "procurement/files/2024-AIIB-Annual-Operational-Procurement-Report.pdf"
+    },
+    {
+      "year": "2025",
+      "title": "2025 Annual Operational Procurement Report",
+      "url": "https://www.aiib.org/en/opportunities/business/project-procurement/_download/2025-AIIB-Annual-Operational-Procurement-Report.pdf",
+      "local_path": "procurement/files/2025-AIIB-Annual-Operational-Procurement-Report.pdf"
+    }
+  ],
+  "contract_awards_xlsx_local_path": "procurement/files/List-of-Contract-Awards_2016-2025.xlsx"
+}

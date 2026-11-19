@@ -1,0 +1,340 @@
+[
+  {
+    "record_id": "constituency:1:Saudi Arabia",
+    "constituency_index": 1,
+    "director_name": "Abdullah Abdulrahman BIN ZARAAH",
+    "director_nationality": "Saudi Arabia",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Abdullah-Abdulrahman-BIN-ZARAAH.html",
+    "alternates": [
+      {
+        "name": "Ali Humaid AL DEREI",
+        "nationality": "United Arab Emirates"
+      },
+      {
+        "name": "Saad Mohammad ALRASHIDI",
+        "nationality": "Kuwait"
+      }
+    ],
+    "constituency_members": [
+      "Bahrain",
+      "Djibouti",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "constituency_members_count": 9,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:2:Türkiye",
+    "constituency_index": 2,
+    "director_name": "Bengü AYTEKIN",
+    "director_nationality": "Türkiye",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Bengu-AYTEKIN.html",
+    "alternates": [
+      {
+        "name": "Muhammad Abbas KHAN",
+        "nationality": "Pakistan"
+      },
+      {
+        "name": "Zohrab GADIROV",
+        "nationality": "Azerbaijan"
+      }
+    ],
+    "constituency_members": [
+      "Azerbaijan",
+      "Brunei Darussalam",
+      "Georgia",
+      "Kyrgyzstan",
+      "Pakistan",
+      "Türkiye"
+    ],
+    "constituency_members_count": 6,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:3:Philippines",
+    "constituency_index": 3,
+    "director_name": "Joven Z. BALBOSA",
+    "director_nationality": "Philippines",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Joven-Z-BALBOSA.html",
+    "alternates": [
+      {
+        "name": "Emelia Fantoza BINTI SARAIH",
+        "nationality": "Malaysia"
+      },
+      {
+        "name": "Sansucha RATANADIREK",
+        "nationality": "Thailand"
+      }
+    ],
+    "constituency_members": [
+      "Bangladesh",
+      "Malaysia",
+      "Maldives",
+      "Nepal",
+      "Philippines",
+      "Thailand"
+    ],
+    "constituency_members_count": 6,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:4:Russia",
+    "constituency_index": 4,
+    "director_name": "Ekaterina GUSEVA",
+    "director_nationality": "Russia",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Ekaterina-GUSEVA.html",
+    "alternates": [
+      {
+        "name": "Yerzhan NESSIBKULOV",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "name": "Majid RANJBARDAR",
+        "nationality": "Iran"
+      }
+    ],
+    "constituency_members": [
+      "Belarus",
+      "Iran",
+      "Kazakhstan",
+      "Russia",
+      "Tajikistan"
+    ],
+    "constituency_members_count": 5,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:5:China",
+    "constituency_index": 5,
+    "director_name": "Jin LU",
+    "director_nationality": "China",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Jin-LU.html",
+    "alternates": [
+      {
+        "name": "Hai WANG",
+        "nationality": "China"
+      }
+    ],
+    "constituency_members": [
+      "China",
+      "Hong Kong, China"
+    ],
+    "constituency_members_count": 2,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:6:Egypt",
+    "constituency_index": 6,
+    "director_name": "Alaa ABDEL-RAHMAN",
+    "director_nationality": "Egypt",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Alaa-ABDEL-RAHMAN.html",
+    "alternates": [
+      {
+        "name": "Camila MAIA CARNEIRO COSTA",
+        "nationality": "Brazil"
+      },
+      {
+        "name": "Sarra BOURAS",
+        "nationality": "Algeria"
+      }
+    ],
+    "constituency_members": [
+      "Algeria",
+      "Argentina",
+      "Benin",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Côte d'Ivoire",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Kenya",
+      "Madagascar",
+      "Mauritania",
+      "Morocco",
+      "Peru",
+      "Rwanda",
+      "South Africa",
+      "Sudan",
+      "Tanzania",
+      "Togo",
+      "Tunisia",
+      "Uruguay"
+    ],
+    "constituency_members_count": 22,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:7:Australia",
+    "constituency_index": 7,
+    "director_name": "Cosimo THAWLEY",
+    "director_nationality": "Australia",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Cosimo-THAWLEY.html",
+    "alternates": [
+      {
+        "name": "Jessica LIM",
+        "nationality": "Singapore"
+      },
+      {
+        "name": "Craig MURPHY",
+        "nationality": "New Zealand"
+      }
+    ],
+    "constituency_members": [
+      "Australia",
+      "Cook Islands",
+      "Naoero",
+      "New Zealand",
+      "Papua New Guinea",
+      "Singapore",
+      "Viet Nam"
+    ],
+    "constituency_members_count": 7,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:8:United Kingdom",
+    "constituency_index": 8,
+    "director_name": "Oliver BOOTH",
+    "director_nationality": "United Kingdom",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Oliver-BOOTH.html",
+    "alternates": [
+      {
+        "name": "Jacek DOMINIK",
+        "nationality": "Poland"
+      },
+      {
+        "name": "Anders ØRNEMARK",
+        "nationality": "Denmark"
+      }
+    ],
+    "constituency_members": [
+      "Denmark",
+      "Hungary",
+      "Iceland",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "constituency_members_count": 9,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:9:Germany",
+    "constituency_index": 9,
+    "director_name": "Dominik WALLAU",
+    "director_nationality": "Germany",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Dominik-Wallau.html",
+    "alternates": [
+      {
+        "name": "Bertrand FURNO",
+        "nationality": "France"
+      },
+      {
+        "name": "Antonio ADINOLFI",
+        "nationality": "Italy"
+      }
+    ],
+    "constituency_members": [
+      "Austria",
+      "Belgium",
+      "Croatia",
+      "Cyprus",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Malta",
+      "Netherlands",
+      "Portugal",
+      "Spain"
+    ],
+    "constituency_members_count": 15,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:10:India",
+    "constituency_index": 10,
+    "director_name": "Anu P MATHAI",
+    "director_nationality": "India",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Anu-P-MATHAI.html",
+    "alternates": [
+      {
+        "name": "Tulsipriya RAJKUMARI",
+        "nationality": "India"
+      }
+    ],
+    "constituency_members": [
+      "India"
+    ],
+    "constituency_members_count": 1,
+    "is_single_country_constituency": true
+  },
+  {
+    "record_id": "constituency:11:Cambodia",
+    "constituency_index": 11,
+    "director_name": "Thirong PEN",
+    "director_nationality": "Cambodia",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Thirong-PEN.html",
+    "alternates": [
+      {
+        "name": "Era HERISNA",
+        "nationality": "Indonesia"
+      },
+      {
+        "name": "Chhuon SAMRITH",
+        "nationality": "Cambodia"
+      }
+    ],
+    "constituency_members": [
+      "Cambodia",
+      "Indonesia",
+      "Lao PDR",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "constituency_members_count": 5,
+    "is_single_country_constituency": false
+  },
+  {
+    "record_id": "constituency:12:Korea",
+    "constituency_index": 12,
+    "director_name": "Hyunjoon JOO",
+    "director_nationality": "Korea",
+    "constituency_url": "https://www.aiib.org/en/about-aiib/governance/board-directors/board-members/directors/Hyunjoon-JOO.html",
+    "alternates": [
+      {
+        "name": "Alisher MURSALIEV",
+        "nationality": "Uzbekistan"
+      },
+      {
+        "name": "Asaf SHIRMAN",
+        "nationality": "Israel"
+      }
+    ],
+    "constituency_members": [
+      "Fiji",
+      "Israel",
+      "Korea",
+      "Mongolia",
+      "Samoa",
+      "Tonga",
+      "Uzbekistan"
+    ],
+    "constituency_members_count": 7,
+    "is_single_country_constituency": false
+  }
+]

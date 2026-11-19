@@ -1,0 +1,1106 @@
+{
+  "update_date": "",
+  "members_count": 106,
+  "regional_count": 52,
+  "non_regional_count": 54,
+  "totals": {
+    "Total Regional": {
+      "record_id": "member:Total Regional",
+      "economy": "Total Regional",
+      "member_group": "Regional",
+      "join_date": "",
+      "subscription_amount_usd_millions": 74461.4,
+      "subscription_percent": 76.2673,
+      "voting_power_votes": 825951,
+      "voting_power_percent": 72.6637
+    },
+    "Grand Total": {
+      "record_id": "member:Grand Total",
+      "economy": "Grand Total",
+      "member_group": "Non-Regional",
+      "join_date": "",
+      "subscription_amount_usd_millions": 97632.2,
+      "subscription_percent": 100.0,
+      "voting_power_votes": 1136676,
+      "voting_power_percent": 100.0
+    },
+    "Total Non-Regional": {
+      "record_id": "member:Total Non-Regional",
+      "economy": "Total Non-Regional",
+      "member_group": "Non-Regional",
+      "join_date": "",
+      "subscription_amount_usd_millions": 23170.8,
+      "subscription_percent": 23.7327,
+      "voting_power_votes": 310725,
+      "voting_power_percent": 27.3363
+    }
+  },
+  "prospective_members": [
+    "Lebanon|Bolivia",
+    "|Colombia",
+    "|Nigeria",
+    "|Venezuela"
+  ],
+  "members": [
+    {
+      "record_id": "member:Afghanistan",
+      "economy": "Afghanistan",
+      "member_group": "Regional",
+      "join_date": "Oct 13, 2017",
+      "subscription_amount_usd_millions": 86.6,
+      "subscription_percent": 0.0887,
+      "voting_power_votes": 1807,
+      "voting_power_percent": 0.159
+    },
+    {
+      "record_id": "member:Armenia",
+      "economy": "Armenia",
+      "member_group": "Regional",
+      "join_date": "Sept 4, 2025",
+      "subscription_amount_usd_millions": 37.4,
+      "subscription_percent": 0.0383,
+      "voting_power_votes": 1661,
+      "voting_power_percent": 0.1461
+    },
+    {
+      "record_id": "member:Australia",
+      "economy": "Australia",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 3691.2,
+      "subscription_percent": 3.7807,
+      "voting_power_votes": 38799,
+      "voting_power_percent": 3.4134
+    },
+    {
+      "record_id": "member:Azerbaijan",
+      "economy": "Azerbaijan",
+      "member_group": "Regional",
+      "join_date": "Jun 24, 2016",
+      "subscription_amount_usd_millions": 254.1,
+      "subscription_percent": 0.2603,
+      "voting_power_votes": 4428,
+      "voting_power_percent": 0.3896
+    },
+    {
+      "record_id": "member:Bahrain",
+      "economy": "Bahrain",
+      "member_group": "Regional",
+      "join_date": "Aug 24, 2018",
+      "subscription_amount_usd_millions": 103.6,
+      "subscription_percent": 0.1061,
+      "voting_power_votes": 2323,
+      "voting_power_percent": 0.2044
+    },
+    {
+      "record_id": "member:Bangladesh",
+      "economy": "Bangladesh",
+      "member_group": "Regional",
+      "join_date": "Mar 22, 2016",
+      "subscription_amount_usd_millions": 660.5,
+      "subscription_percent": 0.6765,
+      "voting_power_votes": 8492,
+      "voting_power_percent": 0.7471
+    },
+    {
+      "record_id": "member:Brunei Darussalam",
+      "economy": "Brunei Darussalam",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 52.4,
+      "subscription_percent": 0.0537,
+      "voting_power_votes": 2411,
+      "voting_power_percent": 0.2121
+    },
+    {
+      "record_id": "member:Cambodia",
+      "economy": "Cambodia",
+      "member_group": "Regional",
+      "join_date": "May 17, 2016",
+      "subscription_amount_usd_millions": 62.3,
+      "subscription_percent": 0.0638,
+      "voting_power_votes": 2510,
+      "voting_power_percent": 0.2208
+    },
+    {
+      "record_id": "member:China",
+      "economy": "China",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 29780.4,
+      "subscription_percent": 30.5026,
+      "voting_power_votes": 299691,
+      "voting_power_percent": 26.3656
+    },
+    {
+      "record_id": "member:Cook Islands",
+      "economy": "Cook Islands",
+      "member_group": "Regional",
+      "join_date": "Jun 01, 2020",
+      "subscription_amount_usd_millions": 0.5,
+      "subscription_percent": 0.0005,
+      "voting_power_votes": 1292,
+      "voting_power_percent": 0.1137
+    },
+    {
+      "record_id": "member:Cyprus",
+      "economy": "Cyprus",
+      "member_group": "Regional",
+      "join_date": "Jun 25, 2018",
+      "subscription_amount_usd_millions": 20.0,
+      "subscription_percent": 0.0205,
+      "voting_power_votes": 1487,
+      "voting_power_percent": 0.1308
+    },
+    {
+      "record_id": "member:Fiji",
+      "economy": "Fiji",
+      "member_group": "Regional",
+      "join_date": "Dec 11, 2017",
+      "subscription_amount_usd_millions": 12.5,
+      "subscription_percent": 0.0128,
+      "voting_power_votes": 1412,
+      "voting_power_percent": 0.1242
+    },
+    {
+      "record_id": "member:Georgia",
+      "economy": "Georgia",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 53.9,
+      "subscription_percent": 0.0552,
+      "voting_power_votes": 2426,
+      "voting_power_percent": 0.2134
+    },
+    {
+      "record_id": "member:Hong Kong, China",
+      "economy": "Hong Kong, China",
+      "member_group": "Regional",
+      "join_date": "Jun 07, 2017",
+      "subscription_amount_usd_millions": 765.1,
+      "subscription_percent": 0.7837,
+      "voting_power_votes": 8938,
+      "voting_power_percent": 0.7863
+    },
+    {
+      "record_id": "member:India",
+      "economy": "India",
+      "member_group": "Regional",
+      "join_date": "Jan 11, 2016",
+      "subscription_amount_usd_millions": 8367.3,
+      "subscription_percent": 8.5702,
+      "voting_power_votes": 85560,
+      "voting_power_percent": 7.5272
+    },
+    {
+      "record_id": "member:Indonesia",
+      "economy": "Indonesia",
+      "member_group": "Regional",
+      "join_date": "Jan 14, 2016",
+      "subscription_amount_usd_millions": 3360.7,
+      "subscription_percent": 3.4422,
+      "voting_power_votes": 35494,
+      "voting_power_percent": 3.1226
+    },
+    {
+      "record_id": "member:Iran",
+      "economy": "Iran",
+      "member_group": "Regional",
+      "join_date": "Jan 16, 2017",
+      "subscription_amount_usd_millions": 1580.8,
+      "subscription_percent": 1.6191,
+      "voting_power_votes": 11372,
+      "voting_power_percent": 1.0005
+    },
+    {
+      "record_id": "member:Iraq",
+      "economy": "Iraq",
+      "member_group": "Regional",
+      "join_date": "Aug 04, 2022",
+      "subscription_amount_usd_millions": 25.0,
+      "subscription_percent": 0.0256,
+      "voting_power_votes": 1487,
+      "voting_power_percent": 0.1308
+    },
+    {
+      "record_id": "member:Israel",
+      "economy": "Israel",
+      "member_group": "Regional",
+      "join_date": "Jan 15, 2016",
+      "subscription_amount_usd_millions": 749.9,
+      "subscription_percent": 0.7681,
+      "voting_power_votes": 9386,
+      "voting_power_percent": 0.8257
+    },
+    {
+      "record_id": "member:Jordan",
+      "economy": "Jordan",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 119.2,
+      "subscription_percent": 0.1221,
+      "voting_power_votes": 3079,
+      "voting_power_percent": 0.2709
+    },
+    {
+      "record_id": "member:Kazakhstan",
+      "economy": "Kazakhstan",
+      "member_group": "Regional",
+      "join_date": "Apr 18, 2016",
+      "subscription_amount_usd_millions": 729.3,
+      "subscription_percent": 0.747,
+      "voting_power_votes": 9180,
+      "voting_power_percent": 0.8076
+    },
+    {
+      "record_id": "member:Korea",
+      "economy": "Korea",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 3738.7,
+      "subscription_percent": 3.8294,
+      "voting_power_votes": 39274,
+      "voting_power_percent": 3.4552
+    },
+    {
+      "record_id": "member:Kuwait",
+      "economy": "Kuwait",
+      "member_group": "Regional",
+      "join_date": "May 26, 2025",
+      "subscription_amount_usd_millions": 536.0,
+      "subscription_percent": 0.549,
+      "voting_power_votes": 7247,
+      "voting_power_percent": 0.6376
+    },
+    {
+      "record_id": "member:Kyrgyzstan",
+      "economy": "Kyrgyzstan",
+      "member_group": "Regional",
+      "join_date": "Apr 11, 2016",
+      "subscription_amount_usd_millions": 26.8,
+      "subscription_percent": 0.0274,
+      "voting_power_votes": 2155,
+      "voting_power_percent": 0.1896
+    },
+    {
+      "record_id": "member:Lao PDR",
+      "economy": "Lao PDR",
+      "member_group": "Regional",
+      "join_date": "Jan 15, 2016",
+      "subscription_amount_usd_millions": 43.0,
+      "subscription_percent": 0.044,
+      "voting_power_votes": 2317,
+      "voting_power_percent": 0.2038
+    },
+    {
+      "record_id": "member:Malaysia",
+      "economy": "Malaysia",
+      "member_group": "Regional",
+      "join_date": "Mar 27, 2017",
+      "subscription_amount_usd_millions": 109.5,
+      "subscription_percent": 0.1122,
+      "voting_power_votes": 2982,
+      "voting_power_percent": 0.2623
+    },
+    {
+      "record_id": "member:Maldives",
+      "economy": "Maldives",
+      "member_group": "Regional",
+      "join_date": "Jan 04, 2016",
+      "subscription_amount_usd_millions": 7.2,
+      "subscription_percent": 0.0074,
+      "voting_power_votes": 1959,
+      "voting_power_percent": 0.1723
+    },
+    {
+      "record_id": "member:Mongolia",
+      "economy": "Mongolia",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 41.1,
+      "subscription_percent": 0.0421,
+      "voting_power_votes": 2298,
+      "voting_power_percent": 0.2022
+    },
+    {
+      "record_id": "member:Myanmar",
+      "economy": "Myanmar",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 264.5,
+      "subscription_percent": 0.2709,
+      "voting_power_votes": 3474,
+      "voting_power_percent": 0.3056
+    },
+    {
+      "record_id": "member:Nauru",
+      "economy": "Nauru",
+      "member_group": "Regional",
+      "join_date": "Feb 28, 2025",
+      "subscription_amount_usd_millions": null,
+      "subscription_percent": null,
+      "voting_power_votes": 0,
+      "voting_power_percent": null
+    },
+    {
+      "record_id": "member:Nepal",
+      "economy": "Nepal",
+      "member_group": "Regional",
+      "join_date": "Jan 13, 2016",
+      "subscription_amount_usd_millions": 80.9,
+      "subscription_percent": 0.0829,
+      "voting_power_votes": 2696,
+      "voting_power_percent": 0.2372
+    },
+    {
+      "record_id": "member:New Zealand",
+      "economy": "New Zealand",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 461.5,
+      "subscription_percent": 0.4727,
+      "voting_power_votes": 6502,
+      "voting_power_percent": 0.572
+    },
+    {
+      "record_id": "member:Oman",
+      "economy": "Oman",
+      "member_group": "Regional",
+      "join_date": "Jun 21, 2016",
+      "subscription_amount_usd_millions": 259.2,
+      "subscription_percent": 0.2655,
+      "voting_power_votes": 4479,
+      "voting_power_percent": 0.394
+    },
+    {
+      "record_id": "member:Pakistan",
+      "economy": "Pakistan",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 1034.1,
+      "subscription_percent": 1.0592,
+      "voting_power_votes": 12228,
+      "voting_power_percent": 1.0758
+    },
+    {
+      "record_id": "member:Papua New Guinea",
+      "economy": "Papua New Guinea",
+      "member_group": "Regional",
+      "join_date": "May 13, 2024",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1327,
+      "voting_power_percent": 0.1167
+    },
+    {
+      "record_id": "member:Philippines",
+      "economy": "Philippines",
+      "member_group": "Regional",
+      "join_date": "Dec 28, 2016",
+      "subscription_amount_usd_millions": 979.1,
+      "subscription_percent": 1.0028,
+      "voting_power_votes": 11678,
+      "voting_power_percent": 1.0274
+    },
+    {
+      "record_id": "member:Qatar",
+      "economy": "Qatar",
+      "member_group": "Regional",
+      "join_date": "Jun 24, 2016",
+      "subscription_amount_usd_millions": 604.4,
+      "subscription_percent": 0.6191,
+      "voting_power_votes": 7931,
+      "voting_power_percent": 0.6977
+    },
+    {
+      "record_id": "member:Russia",
+      "economy": "Russia",
+      "member_group": "Regional",
+      "join_date": "Dec 28, 2015",
+      "subscription_amount_usd_millions": 6536.2,
+      "subscription_percent": 6.6947,
+      "voting_power_votes": 67249,
+      "voting_power_percent": 5.9163
+    },
+    {
+      "record_id": "member:Samoa",
+      "economy": "Samoa",
+      "member_group": "Regional",
+      "join_date": "April 03, 2018",
+      "subscription_amount_usd_millions": 2.1,
+      "subscription_percent": 0.0022,
+      "voting_power_votes": 1308,
+      "voting_power_percent": 0.1151
+    },
+    {
+      "record_id": "member:Saudi Arabia",
+      "economy": "Saudi Arabia",
+      "member_group": "Regional",
+      "join_date": "Feb 19, 2016",
+      "subscription_amount_usd_millions": 2544.6,
+      "subscription_percent": 2.6063,
+      "voting_power_votes": 27333,
+      "voting_power_percent": 2.4046
+    },
+    {
+      "record_id": "member:Singapore",
+      "economy": "Singapore",
+      "member_group": "Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 250.0,
+      "subscription_percent": 0.2561,
+      "voting_power_votes": 4387,
+      "voting_power_percent": 0.3859
+    },
+    {
+      "record_id": "member:Solomon Islands",
+      "economy": "Solomon Islands",
+      "member_group": "Regional",
+      "join_date": "June 9, 2025",
+      "subscription_amount_usd_millions": 0.5,
+      "subscription_percent": 0.0005,
+      "voting_power_votes": 1292,
+      "voting_power_percent": 0.1137
+    },
+    {
+      "record_id": "member:Sri Lanka",
+      "economy": "Sri Lanka",
+      "member_group": "Regional",
+      "join_date": "Jun 22, 2016",
+      "subscription_amount_usd_millions": 269.0,
+      "subscription_percent": 0.2755,
+      "voting_power_votes": 4577,
+      "voting_power_percent": 0.4027
+    },
+    {
+      "record_id": "member:Tajikistan",
+      "economy": "Tajikistan",
+      "member_group": "Regional",
+      "join_date": "Jan 16, 2016",
+      "subscription_amount_usd_millions": 30.9,
+      "subscription_percent": 0.0316,
+      "voting_power_votes": 2196,
+      "voting_power_percent": 0.1932
+    },
+    {
+      "record_id": "member:Thailand",
+      "economy": "Thailand",
+      "member_group": "Regional",
+      "join_date": "Jun 20, 2016",
+      "subscription_amount_usd_millions": 1427.5,
+      "subscription_percent": 1.4621,
+      "voting_power_votes": 16162,
+      "voting_power_percent": 1.4219
+    },
+    {
+      "record_id": "member:Timor-Leste",
+      "economy": "Timor-Leste",
+      "member_group": "Regional",
+      "join_date": "Nov 22, 2017",
+      "subscription_amount_usd_millions": 16.0,
+      "subscription_percent": 0.0164,
+      "voting_power_votes": 1447,
+      "voting_power_percent": 0.1273
+    },
+    {
+      "record_id": "member:Tonga",
+      "economy": "Tonga",
+      "member_group": "Regional",
+      "join_date": "Jan 05, 2021",
+      "subscription_amount_usd_millions": 1.2,
+      "subscription_percent": 0.0012,
+      "voting_power_votes": 1299,
+      "voting_power_percent": 0.1143
+    },
+    {
+      "record_id": "member:Türkiye",
+      "economy": "Türkiye",
+      "member_group": "Regional",
+      "join_date": "Jan 15, 2016",
+      "subscription_amount_usd_millions": 2609.9,
+      "subscription_percent": 2.6732,
+      "voting_power_votes": 27986,
+      "voting_power_percent": 2.4621
+    },
+    {
+      "record_id": "member:UAE",
+      "economy": "UAE",
+      "member_group": "Regional",
+      "join_date": "Jan 15, 2016",
+      "subscription_amount_usd_millions": 1185.7,
+      "subscription_percent": 1.2145,
+      "voting_power_votes": 13744,
+      "voting_power_percent": 1.2091
+    },
+    {
+      "record_id": "member:Uzbekistan",
+      "economy": "Uzbekistan",
+      "member_group": "Regional",
+      "join_date": "Nov 30, 2016",
+      "subscription_amount_usd_millions": 219.8,
+      "subscription_percent": 0.2251,
+      "voting_power_votes": 4085,
+      "voting_power_percent": 0.3594
+    },
+    {
+      "record_id": "member:Vanuatu",
+      "economy": "Vanuatu",
+      "member_group": "Regional",
+      "join_date": "Mar 06, 2018",
+      "subscription_amount_usd_millions": 0.5,
+      "subscription_percent": 0.0005,
+      "voting_power_votes": 1292,
+      "voting_power_percent": 0.1137
+    },
+    {
+      "record_id": "member:Viet Nam",
+      "economy": "Viet Nam",
+      "member_group": "Regional",
+      "join_date": "Apr 11, 2016",
+      "subscription_amount_usd_millions": 663.3,
+      "subscription_percent": 0.6794,
+      "voting_power_votes": 8520,
+      "voting_power_percent": 0.7496
+    },
+    {
+      "record_id": "member:Algeria",
+      "economy": "Algeria",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 27, 2019",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Argentina",
+      "economy": "Argentina",
+      "member_group": "Non-Regional",
+      "join_date": "Mar 30, 2021",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Austria",
+      "economy": "Austria",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 500.8,
+      "subscription_percent": 0.5129,
+      "voting_power_votes": 6895,
+      "voting_power_percent": 0.6066
+    },
+    {
+      "record_id": "member:Belarus",
+      "economy": "Belarus",
+      "member_group": "Non-Regional",
+      "join_date": "Jan 17, 2019",
+      "subscription_amount_usd_millions": 64.1,
+      "subscription_percent": 0.0657,
+      "voting_power_votes": 1928,
+      "voting_power_percent": 0.1696
+    },
+    {
+      "record_id": "member:Belgium",
+      "economy": "Belgium",
+      "member_group": "Non-Regional",
+      "join_date": "Jul 10, 2019",
+      "subscription_amount_usd_millions": 284.6,
+      "subscription_percent": 0.2915,
+      "voting_power_votes": 4133,
+      "voting_power_percent": 0.3636
+    },
+    {
+      "record_id": "member:Benin",
+      "economy": "Benin",
+      "member_group": "Non-Regional",
+      "join_date": "May 25,  2020",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Brazil",
+      "economy": "Brazil",
+      "member_group": "Non-Regional",
+      "join_date": "Nov 02, 2020",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1937,
+      "voting_power_percent": 0.1704
+    },
+    {
+      "record_id": "member:Canada",
+      "economy": "Canada",
+      "member_group": "Non-Regional",
+      "join_date": "Mar 19, 2018",
+      "subscription_amount_usd_millions": 995.4,
+      "subscription_percent": 1.0195,
+      "voting_power_votes": 9250,
+      "voting_power_percent": 0.8138
+    },
+    {
+      "record_id": "member:Chile",
+      "economy": "Chile",
+      "member_group": "Non-Regional",
+      "join_date": "July 2, 2021",
+      "subscription_amount_usd_millions": 10.0,
+      "subscription_percent": 0.0102,
+      "voting_power_votes": 1387,
+      "voting_power_percent": 0.122
+    },
+    {
+      "record_id": "member:Côte d'Ivoire",
+      "economy": "Côte d'Ivoire",
+      "member_group": "Non-Regional",
+      "join_date": "Feb 26, 2020",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1328,
+      "voting_power_percent": 0.1168
+    },
+    {
+      "record_id": "member:Croatia",
+      "economy": "Croatia",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 17, 2021",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Denmark",
+      "economy": "Denmark",
+      "member_group": "Non-Regional",
+      "join_date": "Jan 15, 2016",
+      "subscription_amount_usd_millions": 369.5,
+      "subscription_percent": 0.3785,
+      "voting_power_votes": 5582,
+      "voting_power_percent": 0.4911
+    },
+    {
+      "record_id": "member:Djibouti",
+      "economy": "Djibouti",
+      "member_group": "Non-Regional",
+      "join_date": "Sept 5, 2024",
+      "subscription_amount_usd_millions": 0.5,
+      "subscription_percent": 0.0005,
+      "voting_power_votes": 1292,
+      "voting_power_percent": 0.1137
+    },
+    {
+      "record_id": "member:Ecuador",
+      "economy": "Ecuador",
+      "member_group": "Non-Regional",
+      "join_date": "Nov 1, 2019",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Egypt",
+      "economy": "Egypt",
+      "member_group": "Non-Regional",
+      "join_date": "Aug 04, 2016",
+      "subscription_amount_usd_millions": 650.5,
+      "subscription_percent": 0.6663,
+      "voting_power_votes": 8392,
+      "voting_power_percent": 0.7383
+    },
+    {
+      "record_id": "member:El Salvador",
+      "economy": "El Salvador",
+      "member_group": "Non-Regional",
+      "join_date": "Feb 10, 2025",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Ethiopia",
+      "economy": "Ethiopia",
+      "member_group": "Non-Regional",
+      "join_date": "May 13, 2017",
+      "subscription_amount_usd_millions": 45.8,
+      "subscription_percent": 0.0469,
+      "voting_power_votes": 1745,
+      "voting_power_percent": 0.1535
+    },
+    {
+      "record_id": "member:Finland",
+      "economy": "Finland",
+      "member_group": "Non-Regional",
+      "join_date": "Jan 07, 2016",
+      "subscription_amount_usd_millions": 310.3,
+      "subscription_percent": 0.3178,
+      "voting_power_votes": 4990,
+      "voting_power_percent": 0.439
+    },
+    {
+      "record_id": "member:France",
+      "economy": "France",
+      "member_group": "Non-Regional",
+      "join_date": "Jun 16, 2016",
+      "subscription_amount_usd_millions": 3375.6,
+      "subscription_percent": 3.4575,
+      "voting_power_votes": 35643,
+      "voting_power_percent": 3.1357
+    },
+    {
+      "record_id": "member:Germany",
+      "economy": "Germany",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 4484.2,
+      "subscription_percent": 4.593,
+      "voting_power_votes": 46729,
+      "voting_power_percent": 4.111
+    },
+    {
+      "record_id": "member:Ghana",
+      "economy": "Ghana",
+      "member_group": "Non-Regional",
+      "join_date": "Feb 21, 2020",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Greece",
+      "economy": "Greece",
+      "member_group": "Non-Regional",
+      "join_date": "Aug 20, 2019",
+      "subscription_amount_usd_millions": 10.0,
+      "subscription_percent": 0.0102,
+      "voting_power_votes": 1387,
+      "voting_power_percent": 0.122
+    },
+    {
+      "record_id": "member:Guinea",
+      "economy": "Guinea",
+      "member_group": "Non-Regional",
+      "join_date": "Jul 12, 2019",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1307,
+      "voting_power_percent": 0.115
+    },
+    {
+      "record_id": "member:Hungary",
+      "economy": "Hungary",
+      "member_group": "Non-Regional",
+      "join_date": "Jun 16, 2017",
+      "subscription_amount_usd_millions": 100.0,
+      "subscription_percent": 0.1024,
+      "voting_power_votes": 2287,
+      "voting_power_percent": 0.2012
+    },
+    {
+      "record_id": "member:Iceland",
+      "economy": "Iceland",
+      "member_group": "Non-Regional",
+      "join_date": "Mar 04, 2016",
+      "subscription_amount_usd_millions": 17.6,
+      "subscription_percent": 0.018,
+      "voting_power_votes": 2063,
+      "voting_power_percent": 0.1815
+    },
+    {
+      "record_id": "member:Ireland",
+      "economy": "Ireland",
+      "member_group": "Non-Regional",
+      "join_date": "Oct 23, 2017",
+      "subscription_amount_usd_millions": 131.3,
+      "subscription_percent": 0.1345,
+      "voting_power_votes": 2600,
+      "voting_power_percent": 0.2287
+    },
+    {
+      "record_id": "member:Italy",
+      "economy": "Italy",
+      "member_group": "Non-Regional",
+      "join_date": "Jul 13, 2016",
+      "subscription_amount_usd_millions": 2571.8,
+      "subscription_percent": 2.6342,
+      "voting_power_votes": 27605,
+      "voting_power_percent": 2.4286
+    },
+    {
+      "record_id": "member:Kenya",
+      "economy": "Kenya",
+      "member_group": "Non-Regional",
+      "join_date": "Sept 4, 2024",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Liberia",
+      "economy": "Liberia",
+      "member_group": "Non-Regional",
+      "join_date": "Jan 04, 2021",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1317,
+      "voting_power_percent": 0.1159
+    },
+    {
+      "record_id": "member:Libya",
+      "economy": "Libya",
+      "member_group": "Non-Regional",
+      "join_date": "Sep 12, 2023",
+      "subscription_amount_usd_millions": 52.6,
+      "subscription_percent": 0.0539,
+      "voting_power_votes": 1813,
+      "voting_power_percent": 0.1595
+    },
+    {
+      "record_id": "member:Luxembourg",
+      "economy": "Luxembourg",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 69.7,
+      "subscription_percent": 0.0714,
+      "voting_power_votes": 2584,
+      "voting_power_percent": 0.2273
+    },
+    {
+      "record_id": "member:Madagascar",
+      "economy": "Madagascar",
+      "member_group": "Non-Regional",
+      "join_date": "Jun 25, 2018",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Malta",
+      "economy": "Malta",
+      "member_group": "Non-Regional",
+      "join_date": "Jan 07, 2016",
+      "subscription_amount_usd_millions": 13.6,
+      "subscription_percent": 0.0139,
+      "voting_power_votes": 2023,
+      "voting_power_percent": 0.178
+    },
+    {
+      "record_id": "member:Mauritania",
+      "economy": "Mauritania",
+      "member_group": "Non-Regional",
+      "join_date": "June 24, 2025",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Morocco",
+      "economy": "Morocco",
+      "member_group": "Non-Regional",
+      "join_date": "May 04, 2022",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Netherlands",
+      "economy": "Netherlands",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 1031.3,
+      "subscription_percent": 1.0563,
+      "voting_power_votes": 12200,
+      "voting_power_percent": 1.0733
+    },
+    {
+      "record_id": "member:Norway",
+      "economy": "Norway",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 550.6,
+      "subscription_percent": 0.564,
+      "voting_power_votes": 7393,
+      "voting_power_percent": 0.6504
+    },
+    {
+      "record_id": "member:Peru",
+      "economy": "Peru",
+      "member_group": "Non-Regional",
+      "join_date": "Jan 14, 2022",
+      "subscription_amount_usd_millions": 154.6,
+      "subscription_percent": 0.1583,
+      "voting_power_votes": 2833,
+      "voting_power_percent": 0.2492
+    },
+    {
+      "record_id": "member:Poland",
+      "economy": "Poland",
+      "member_group": "Non-Regional",
+      "join_date": "Jun 15, 2016",
+      "subscription_amount_usd_millions": 831.8,
+      "subscription_percent": 0.852,
+      "voting_power_votes": 10205,
+      "voting_power_percent": 0.8978
+    },
+    {
+      "record_id": "member:Portugal",
+      "economy": "Portugal",
+      "member_group": "Non-Regional",
+      "join_date": "Feb 08, 2017",
+      "subscription_amount_usd_millions": 65.0,
+      "subscription_percent": 0.0666,
+      "voting_power_votes": 2537,
+      "voting_power_percent": 0.2232
+    },
+    {
+      "record_id": "member:Romania",
+      "economy": "Romania",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 28, 2018",
+      "subscription_amount_usd_millions": 153.0,
+      "subscription_percent": 0.1567,
+      "voting_power_votes": 2817,
+      "voting_power_percent": 0.2478
+    },
+    {
+      "record_id": "member:Rwanda",
+      "economy": "Rwanda",
+      "member_group": "Non-Regional",
+      "join_date": "April 16, 2020",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Senegal",
+      "economy": "Senegal",
+      "member_group": "Non-Regional",
+      "join_date": "December 22, 2025",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Serbia",
+      "economy": "Serbia",
+      "member_group": "Non-Regional",
+      "join_date": "Aug 15, 2019",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:South Africa",
+      "economy": "South Africa",
+      "member_group": "Non-Regional",
+      "join_date": "Nov 24, 2023",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1937,
+      "voting_power_percent": 0.1704
+    },
+    {
+      "record_id": "member:Spain",
+      "economy": "Spain",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 15, 2017",
+      "subscription_amount_usd_millions": 1761.5,
+      "subscription_percent": 1.8042,
+      "voting_power_votes": 19502,
+      "voting_power_percent": 1.7157
+    },
+    {
+      "record_id": "member:Sudan",
+      "economy": "Sudan",
+      "member_group": "Non-Regional",
+      "join_date": "Sep 13, 2018",
+      "subscription_amount_usd_millions": 59.0,
+      "subscription_percent": 0.0604,
+      "voting_power_votes": 1456,
+      "voting_power_percent": 0.1281
+    },
+    {
+      "record_id": "member:Sweden",
+      "economy": "Sweden",
+      "member_group": "Non-Regional",
+      "join_date": "Jun 23, 2016",
+      "subscription_amount_usd_millions": 630.0,
+      "subscription_percent": 0.6453,
+      "voting_power_votes": 8187,
+      "voting_power_percent": 0.7203
+    },
+    {
+      "record_id": "member:Switzerland",
+      "economy": "Switzerland",
+      "member_group": "Non-Regional",
+      "join_date": "Apr 25, 2016",
+      "subscription_amount_usd_millions": 706.4,
+      "subscription_percent": 0.7235,
+      "voting_power_votes": 8951,
+      "voting_power_percent": 0.7875
+    },
+    {
+      "record_id": "member:Tanzania",
+      "economy": "Tanzania",
+      "member_group": "Non-Regional",
+      "join_date": "Oct 14, 2025",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1327,
+      "voting_power_percent": 0.1167
+    },
+    {
+      "record_id": "member:Togo",
+      "economy": "Togo",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 19, 2023",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:Tunisia",
+      "economy": "Tunisia",
+      "member_group": "Non-Regional",
+      "join_date": "April 29, 2022",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    },
+    {
+      "record_id": "member:United Kingdom",
+      "economy": "United Kingdom",
+      "member_group": "Non-Regional",
+      "join_date": "Dec 25, 2015",
+      "subscription_amount_usd_millions": 3054.7,
+      "subscription_percent": 3.1288,
+      "voting_power_votes": 32434,
+      "voting_power_percent": 2.8534
+    },
+    {
+      "record_id": "member:Uruguay",
+      "economy": "Uruguay",
+      "member_group": "Non-Regional",
+      "join_date": "April 28, 2020",
+      "subscription_amount_usd_millions": 5.0,
+      "subscription_percent": 0.0051,
+      "voting_power_votes": 1337,
+      "voting_power_percent": 0.1176
+    }
+  ]
+}

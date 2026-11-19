@@ -1,0 +1,842 @@
+[
+  {
+    "record_id": "governor:Afghanistan",
+    "economy": "Afghanistan",
+    "governor_name": "Mr. Mohammad Khalid Payenda",
+    "governor_title": "Acting Minister of Finance",
+    "alternate_name": "Mr. Nazir Kabiri",
+    "alternate_title": "Deputy Minister for Policy"
+  },
+  {
+    "record_id": "governor:Algeria",
+    "economy": "Algeria",
+    "governor_name": "Mr. Mohammed Lamine Lebbou",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mrs. Nawal Lammari",
+    "alternate_title": "Director of Multilateral Economic and Financial Relations"
+  },
+  {
+    "record_id": "governor:Argentina",
+    "economy": "Argentina",
+    "governor_name": "Mr. José Luis Daza Narbona",
+    "governor_title": "Secretary of Economic Policy of the Ministry of Economy",
+    "alternate_name": "Martín Edgardo Tolivia",
+    "alternate_title": "Undersecretary of International Financial Relations"
+  },
+  {
+    "record_id": "governor:Armenia",
+    "economy": "Armenia",
+    "governor_name": "Mr. Vahe Hovhannisyan",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Edgar Mkrtchyan",
+    "alternate_title": "Deputy Minister of Finance"
+  },
+  {
+    "record_id": "governor:Australia",
+    "economy": "Australia",
+    "governor_name": "Dr. Jim Chalmers",
+    "governor_title": "Treasurer",
+    "alternate_name": "Dr. Daniel Mulino",
+    "alternate_title": "Assistant Treasurer and Minister for Financial Services"
+  },
+  {
+    "record_id": "governor:Austria",
+    "economy": "Austria",
+    "governor_name": "Mr. Markus Marterbauer",
+    "governor_title": "Federal Minister of Finance",
+    "alternate_name": "Mr. Harald Waiglein",
+    "alternate_title": "Director General for Economic Policy and Financial Markets, Federal Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Azerbaijan",
+    "economy": "Azerbaijan",
+    "governor_name": "Mr. Mikayil Jabbarov",
+    "governor_title": "Minister of Economy",
+    "alternate_name": "Mr. Samir Sharifov",
+    "alternate_title": "Minister of Finance"
+  },
+  {
+    "record_id": "governor:Bahrain",
+    "economy": "Bahrain",
+    "governor_name": "Mr. Shaikh Salman Khalifa Salman Alkhalifa",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Yusuf Abdulla Humood",
+    "alternate_title": "Undersecretary for Financial Affairs"
+  },
+  {
+    "record_id": "governor:Bangladesh",
+    "economy": "Bangladesh",
+    "governor_name": "Mr. Amir Khosru Mahmud Chowdhury",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Md. Shahriar Kader Siddiky",
+    "alternate_title": "Secretary of the Economic Relations Division"
+  },
+  {
+    "record_id": "governor:Belarus",
+    "economy": "Belarus",
+    "governor_name": "Mr. Nikolai Snopkov",
+    "governor_title": "First Deputy Prime Minister",
+    "alternate_name": "Mr. Uladzislau Tatarynovich",
+    "alternate_title": "Minister of Finance"
+  },
+  {
+    "record_id": "governor:Belgium",
+    "economy": "Belgium",
+    "governor_name": "Mr. Jan Jambon",
+    "governor_title": "Vice Prime Minister and Minister of Finance and Pensions, responsible for the National Lottery and Federal Cultural Institutions",
+    "alternate_name": "Ms. Filiz Korkmazer",
+    "alternate_title": "Head of the Expertise and Operational Support (EOS) Unit within the General Administration of the Treasury, Federal Public Service Finance"
+  },
+  {
+    "record_id": "governor:Benin",
+    "economy": "Benin",
+    "governor_name": "Mr. Hugues Oscar Lokossou",
+    "governor_title": "Delegate Minister to the Minister of Finance in charge of External Resources Mobilisation and Debt Management",
+    "alternate_name": "Ms. Sarah Kpenou",
+    "alternate_title": "Director General of Benin’s Debt Management Office Caisse Autonome de la Gestion de la Dette (CAGD)"
+  },
+  {
+    "record_id": "governor:Brazil",
+    "economy": "Brazil",
+    "governor_name": "Mr. Dario Carnevalli Durigan",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Mathias Jourdain de Alencastro",
+    "alternate_title": "Secretary of International Affairs"
+  },
+  {
+    "record_id": "governor:Brunei Darussalam",
+    "economy": "Brunei Darussalam",
+    "governor_name": "Dr. Amin Liew Abdullah",
+    "governor_title": "Minister of The Prime Minister's Office and Minister of Finance and Economy II",
+    "alternate_name": "Ms. Pengiran Datin Zety Sufina Dato Sani",
+    "alternate_title": "Deputy Minister of Finance and Economy (Fiscal)"
+  },
+  {
+    "record_id": "governor:Cambodia",
+    "economy": "Cambodia",
+    "governor_name": "Dr. AUN Pornmoniroth",
+    "governor_title": "Deputy Prime Minister and Minister of Economy and Finance",
+    "alternate_name": "Mr. Vongsey Vissoth",
+    "alternate_title": "Secretary of the State Ministry of Economy and Finance"
+  },
+  {
+    "record_id": "governor:Canada",
+    "economy": "Canada",
+    "governor_name": "Mr. François-Philippe Champagne",
+    "governor_title": "Minister of Finance and National Revenue",
+    "alternate_name": "Mr. Glenn Purves",
+    "alternate_title": "Deputy Minister for International Trade"
+  },
+  {
+    "record_id": "governor:Chile",
+    "economy": "Chile",
+    "governor_name": "Mr. Jorge Quiroz Castro",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Sebastián Vallebona Espinosa",
+    "alternate_title": "Undersecretary of Finance"
+  },
+  {
+    "record_id": "governor:China",
+    "economy": "China",
+    "governor_name": "Mr. Lan Fo’an",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Liao Min",
+    "alternate_title": "Vice Minister of Finance"
+  },
+  {
+    "record_id": "governor:Cook Islands",
+    "economy": "Cook Islands",
+    "governor_name": "Mr. Mark Brown",
+    "governor_title": "Prime Minister and Minister of Finance",
+    "alternate_name": "Mr. Garth Henderson",
+    "alternate_title": "Financial Secretary of Ministry of Finance and Economic Management"
+  },
+  {
+    "record_id": "governor:Côte d'Ivoire",
+    "economy": "Côte d'Ivoire",
+    "governor_name": "Mr. Adama Coulibaly",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Mrs. Nialé Kaba",
+    "alternate_title": "Minister of Planning and Development"
+  },
+  {
+    "record_id": "governor:Croatia",
+    "economy": "Croatia",
+    "governor_name": "Mr. Tomislav Ćorić",
+    "governor_title": "Deputy Prime Minister and Minister of Finance",
+    "alternate_name": "Mr. Stipe Župan",
+    "alternate_title": "State Secretary of the Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Cyprus",
+    "economy": "Cyprus",
+    "governor_name": "Mr. Makis Keravnos",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Costas Constantinides",
+    "alternate_title": "Senior Economic Officer"
+  },
+  {
+    "record_id": "governor:Denmark",
+    "economy": "Denmark",
+    "governor_name": "Mr. Ole Thonke",
+    "governor_title": "Under-Secretary for Development Policy",
+    "alternate_name": "Ms. Karen Grønlund Rogne",
+    "alternate_title": "Director for Multilateral Cooperation and Policy"
+  },
+  {
+    "record_id": "governor:Djibouti",
+    "economy": "Djibouti",
+    "governor_name": "Ilyas Moussa Dawaleh",
+    "governor_title": "Minister of Economy and Finance in Charge of Industry",
+    "alternate_name": "Samir Aden Cheikh",
+    "alternate_title": "Principal Advisor & Director of Cabinet, Ministry of Economy and Finance in Charge of Industry"
+  },
+  {
+    "record_id": "governor:Ecuador",
+    "economy": "Ecuador",
+    "governor_name": "Ms. Sariha Moya Angulo",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Mr. Sebastian Londoño Espinosa",
+    "alternate_title": "Vice Minister of Finance"
+  },
+  {
+    "record_id": "governor:Egypt",
+    "economy": "Egypt",
+    "governor_name": "Mr. Ahmed Kouchouk",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Dr. Mohamed Farid Saleh",
+    "alternate_title": "Minister of Investment and Foreign Trade"
+  },
+  {
+    "record_id": "governor:El Salvador",
+    "economy": "El Salvador",
+    "governor_name": "Mr. Jerson Posada",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Luis Sánchez",
+    "alternate_title": "Vice Minister of Finance"
+  },
+  {
+    "record_id": "governor:Ethiopia",
+    "economy": "Ethiopia",
+    "governor_name": "Mr. Ahmed Shide",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Ms. Semereta Sewasew Aweke",
+    "alternate_title": "State Minister of Finance for Economic Cooperation"
+  },
+  {
+    "record_id": "governor:Fiji",
+    "economy": "Fiji",
+    "governor_name": "Mr. Esrom Yosef Immanuel",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Shiri Krishna Gounder",
+    "alternate_title": "Permanent Secretary for Ministry of Finance, Strategic Planning, National Development and Statistics"
+  },
+  {
+    "record_id": "governor:Finland",
+    "economy": "Finland",
+    "governor_name": "Ms. Riikka Purra",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Ms. Leena Mörttinen",
+    "alternate_title": "Permanent Under-Secretary"
+  },
+  {
+    "record_id": "governor:France",
+    "economy": "France",
+    "governor_name": "Mr. Roland Lescure",
+    "governor_title": "Minister of Economy, Finance and Industrial, Energy and Digital Sovereignty",
+    "alternate_name": "Mr. Bertrand Dumont",
+    "alternate_title": "Director General of the French Treasury"
+  },
+  {
+    "record_id": "governor:Georgia",
+    "economy": "Georgia",
+    "governor_name": "Mr. Lasha Khutsishvili",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Ms. Mariam Kvrivishvili",
+    "alternate_title": "Minister of Economy and Sustainable Development"
+  },
+  {
+    "record_id": "governor:Germany",
+    "economy": "Germany",
+    "governor_name": "Mr. Lars Klingbeil",
+    "governor_title": "Federal Minister of Finance",
+    "alternate_name": "Ms. Jeanette Schwamberger",
+    "alternate_title": "State Secretary of the Federal Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Ghana",
+    "economy": "Ghana",
+    "governor_name": "Dr. Cassiel Ato Forson",
+    "governor_title": "Minister for Finance",
+    "alternate_name": "Mr. Thomas Nyarko Ampem",
+    "alternate_title": "Deputy Minister for Finance"
+  },
+  {
+    "record_id": "governor:Greece",
+    "economy": "Greece",
+    "governor_name": "Mr. Kyriakos Pierrakakis",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Mr. Achilleas Tzimas",
+    "alternate_title": "Head of EU Affairs & International Relations Directorate of the Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Guinea",
+    "economy": "Guinea",
+    "governor_name": "Mr. Moussa Cisse",
+    "governor_title": "Minister of Economy, Finance and Planning",
+    "alternate_name": "Mr. Karamo Kaba",
+    "alternate_title": "Governor of the Central Bank"
+  },
+  {
+    "record_id": "governor:Hong Kong, China",
+    "economy": "Hong Kong, China",
+    "governor_name": "Mr. Paul MP Chan",
+    "governor_title": "Financial Secretary",
+    "alternate_name": "Mr. Christopher Hui",
+    "alternate_title": "Secretary for Financial Services and the Treasury"
+  },
+  {
+    "record_id": "governor:Hungary",
+    "economy": "Hungary",
+    "governor_name": "Mr. Márton Nagy",
+    "governor_title": "Minister for National Economy of Hungary",
+    "alternate_name": "Mr. Márton Bókay",
+    "alternate_title": "Deputy State Secretary for National Development Financing, Ministry for National Economy of Hungary"
+  },
+  {
+    "record_id": "governor:Iceland",
+    "economy": "Iceland",
+    "governor_name": "Mr. Daði Már Kristófersson",
+    "governor_title": "Minister of Finance and Economic Affairs",
+    "alternate_name": "Mr. Hermann Sæmundsson",
+    "alternate_title": "Permanent Secretary, Ministry of Finance and Economic Affairs"
+  },
+  {
+    "record_id": "governor:India",
+    "economy": "India",
+    "governor_name": "Mrs. Nirmala Sitharaman",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Ms. Anuradha Thakur",
+    "alternate_title": "Secretary (Economic Affairs)"
+  },
+  {
+    "record_id": "governor:Indonesia",
+    "economy": "Indonesia",
+    "governor_name": "Mr. Suahasil Nazara",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Rachmat Pambudy",
+    "alternate_title": "Minister of National Development Planning"
+  },
+  {
+    "record_id": "governor:Iran",
+    "economy": "Iran",
+    "governor_name": "Dr. Seyed Ali Madanizadeh",
+    "governor_title": "Minister of Economic Affairs and Finance",
+    "alternate_name": "Dr. Mahdi Heidari",
+    "alternate_title": "Vice Minister of Economic Affairs and Finance of the Islamic Republic of Iran and President of the Organization for Investment, Economic and Technical Assistance of Iran"
+  },
+  {
+    "record_id": "governor:Iraq",
+    "economy": "Iraq",
+    "governor_name": "Mr. Falih Al-Sari",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Thafer Mahdi Abdullah",
+    "alternate_title": "Chairman of Iraqi Fund for External Development"
+  },
+  {
+    "record_id": "governor:Ireland",
+    "economy": "Ireland",
+    "governor_name": "Dr. Paul Ryan",
+    "governor_title": "Head of International Finance Division",
+    "alternate_name": "Mr. John Hogan",
+    "alternate_title": "Secretary General of the Department of Finance"
+  },
+  {
+    "record_id": "governor:Israel",
+    "economy": "Israel",
+    "governor_name": "Mr. Bezalel Smotrich",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Dr. Shmuel Abramzon",
+    "alternate_title": "Chief Economist at the Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Italy",
+    "economy": "Italy",
+    "governor_name": "Mr. Giancarlo Giorgetti",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Ms. Manuela Nenna",
+    "alternate_title": "Head of International Financial Relations"
+  },
+  {
+    "record_id": "governor:Jordan",
+    "economy": "Jordan",
+    "governor_name": "Ms. Zeina Toukan",
+    "governor_title": "Minister of Planning and International Cooperation",
+    "alternate_name": "Mr. Omar Alfanek",
+    "alternate_title": "Secretary General of the Ministry of Planning and International Cooperation"
+  },
+  {
+    "record_id": "governor:Kazakhstan",
+    "economy": "Kazakhstan",
+    "governor_name": "Mr. Serik Zhumangarin",
+    "governor_title": "Deputy Prime Minister - Minister of National Economy",
+    "alternate_name": "Mr. Maksat Kaliakparov",
+    "alternate_title": "Vice Minister of Transport"
+  },
+  {
+    "record_id": "governor:Kenya",
+    "economy": "Kenya",
+    "governor_name": "John Mbadi Ng’ongo",
+    "governor_title": "Cabinet Secretary of the National Treasury and Economic Planning",
+    "alternate_name": "Christopher Kiprotich Kiptoo",
+    "alternate_title": "Principal Secretary of the National Treasury"
+  },
+  {
+    "record_id": "governor:Korea",
+    "economy": "Korea",
+    "governor_name": "Mr. Hyoung Il Lee",
+    "governor_title": "Deputy Prime Minister and Minister of Finance and Economy",
+    "alternate_name": "Mr. Hyun Song Shin",
+    "alternate_title": "Governor of the Bank of Korea"
+  },
+  {
+    "record_id": "governor:Kuwait",
+    "economy": "Kuwait",
+    "governor_name": "Prof. Yaqoub S.Y. Alrefaei",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Waleed S. Al-Bahar",
+    "alternate_title": "Acting Director General of Kuwait Fund for Arab Economic Development (KFAED)"
+  },
+  {
+    "record_id": "governor:Kyrgyzstan",
+    "economy": "Kyrgyzstan",
+    "governor_name": "Mr. Ruslan Suinaliev",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Bakyt Sydykov",
+    "alternate_title": "Minister of Economy and Commerce"
+  },
+  {
+    "record_id": "governor:Lao PDR",
+    "economy": "Lao PDR",
+    "governor_name": "Mr. Santiphab Phomvihane",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Soulivath Souvannachoumkham",
+    "alternate_title": "Deputy Minister of Finance"
+  },
+  {
+    "record_id": "governor:Liberia",
+    "economy": "Liberia",
+    "governor_name": "Mr. Augustine Kpehe Ngafuan",
+    "governor_title": "Minister of Finance and Development Planning",
+    "alternate_name": "Mr. Dehpue Y. Zuo",
+    "alternate_title": "Deputy Minister of Finance and Economic Management"
+  },
+  {
+    "record_id": "governor:Libya",
+    "economy": "Libya",
+    "governor_name": "Mr. Naji Mohamed Belgasem",
+    "governor_title": "Governor of Central Bank of Libya",
+    "alternate_name": "Mr. Moftah Ali Suliaman",
+    "alternate_title": "Director of the Financial Market, Central Bank of Libya"
+  },
+  {
+    "record_id": "governor:Luxembourg",
+    "economy": "Luxembourg",
+    "governor_name": "Mr. Gilles Roth",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Ms. Sofia Tilotta",
+    "alternate_title": "Deputy Director of the Department of Multilateral Affairs, Development and Compliance"
+  },
+  {
+    "record_id": "governor:Madagascar",
+    "economy": "Madagascar",
+    "governor_name": "Dr. Herinjatovo Aimé Ramiarison",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Ms. Ratsiavahana Mbinison Dorette",
+    "alternate_title": "Director General of Public Treasury"
+  },
+  {
+    "record_id": "governor:Malaysia",
+    "economy": "Malaysia",
+    "governor_name": "Mr. Anwar Ibrahim",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Johan Mahmood Merican",
+    "alternate_title": "Secretary General of Treasury"
+  },
+  {
+    "record_id": "governor:Maldives",
+    "economy": "Maldives",
+    "governor_name": "Mr. Hassan Zareer",
+    "governor_title": "Minister of Finance and Public Enterprises",
+    "alternate_name": "Dr. Abdulla Muththalib",
+    "alternate_title": "Minister of Construction and Infrastructure"
+  },
+  {
+    "record_id": "governor:Malta",
+    "economy": "Malta",
+    "governor_name": "Mr. Clyde Caruana",
+    "governor_title": "Minister for Finance",
+    "alternate_name": "Mr. Paul Zahra",
+    "alternate_title": "Permanent Secretary at the Ministry for Finance"
+  },
+  {
+    "record_id": "governor:Mongolia",
+    "economy": "Mongolia",
+    "governor_name": "Mr. Mendsaikhan Zagdjav",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Anar Bat-Ireedui",
+    "alternate_title": "State Secretary, Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Morocco",
+    "economy": "Morocco",
+    "governor_name": "Mrs. Nadia Fettah",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Mr. Mohammed Tarik Bchir",
+    "alternate_title": "Acting Director of the Treasury and External Finance at the Ministry of Economy and Finance"
+  },
+  {
+    "record_id": "governor:Mauritania",
+    "economy": "Mauritania",
+    "governor_name": "Mr. Abdallah Souleymane Cheikh Sidia",
+    "governor_title": "Minister of Economic Affairs and Development",
+    "alternate_name": "Mrs. Fatimetou Horma",
+    "alternate_title": "Advisor to Minister"
+  },
+  {
+    "record_id": "governor:Myanmar",
+    "economy": "Myanmar",
+    "governor_name": "Mr. Soe Win",
+    "governor_title": "Union Minister for Planning and Finance",
+    "alternate_name": "Mr. Maung Maung Win",
+    "alternate_title": "Deputy Minister for Planning and Finance"
+  },
+  {
+    "record_id": "governor:Naoero",
+    "economy": "Naoero",
+    "governor_name": "Mr. David W.R. Adeang",
+    "governor_title": "President and Minister of Finance",
+    "alternate_name": "Mr. John R. Petersen",
+    "alternate_title": "Adviser to the President of Naoero"
+  },
+  {
+    "record_id": "governor:Nepal",
+    "economy": "Nepal",
+    "governor_name": "Dr. Swarnim Wagle",
+    "governor_title": "Finance Minister",
+    "alternate_name": "Mr. Ghanshyam Upadhyaya",
+    "alternate_title": "Secretary of the Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Netherlands",
+    "economy": "Netherlands",
+    "governor_name": "Mr. Eelco Heinen",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Jasper Wesseling",
+    "alternate_title": "Treasurer-General at the Ministry of Finance"
+  },
+  {
+    "record_id": "governor:New Zealand",
+    "economy": "New Zealand",
+    "governor_name": "Ms. Nicola Willis",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Iain Rennie",
+    "alternate_title": "Secretary and Chief Executive"
+  },
+  {
+    "record_id": "governor:Norway",
+    "economy": "Norway",
+    "governor_name": "Ms. Stine Renate Håheim",
+    "governor_title": "State Secretary, Ministry of Foreign Affairs",
+    "alternate_name": "Ms. Harriet Veddegjerde Solheim",
+    "alternate_title": "Director of Section for Multilateral Development Bank, Ministry of Foreign Affairs"
+  },
+  {
+    "record_id": "governor:Oman",
+    "economy": "Oman",
+    "governor_name": "Mr. Abdulsalam Al Murshidi",
+    "governor_title": "President of Oman Investment Authority",
+    "alternate_name": "Ms. Thuriya Al Balushi",
+    "alternate_title": "Manager of Economic Diversification Investments"
+  },
+  {
+    "record_id": "governor:Pakistan",
+    "economy": "Pakistan",
+    "governor_name": "Mr. Ahad Khan Cheema",
+    "governor_title": "Federal Minister for Economic Affairs",
+    "alternate_name": "Mr. Muhammad Humair Karim",
+    "alternate_title": "Secretary, Economic Affairs Division"
+  },
+  {
+    "record_id": "governor:Papua New Guinea",
+    "economy": "Papua New Guinea",
+    "governor_name": "Mr. Ian Ling-Stuckey",
+    "governor_title": "Minister for Treasury",
+    "alternate_name": "Mr. Andrew Oaeke",
+    "alternate_title": "Secretary for Treasury"
+  },
+  {
+    "record_id": "governor:Peru",
+    "economy": "Peru",
+    "governor_name": "Mr. Elmer Rafael Cuba Bustinza",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Mr. Erick Wilfredo Lahura Serrano",
+    "alternate_title": "Vice Minister of Finance of the Ministry of Economy and Finance"
+  },
+  {
+    "record_id": "governor:Philippines",
+    "economy": "Philippines",
+    "governor_name": "Mr. Frederick D. Go",
+    "governor_title": "Acting Secretary, Department of Finance",
+    "alternate_name": "Ms. Carlyn A. Diaz",
+    "alternate_title": "Officer-in-Charge Assistant Secretary, Department of Finance"
+  },
+  {
+    "record_id": "governor:Poland",
+    "economy": "Poland",
+    "governor_name": "Mr. Andrzej Domański",
+    "governor_title": "Minister of Finance and Economy",
+    "alternate_name": "Paweł Siwek",
+    "alternate_title": "Director of the International Cooperation Department, Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Portugal",
+    "economy": "Portugal",
+    "governor_name": "Mr. Joaquim Miranda Sarmento",
+    "governor_title": "Minister of State and Finance",
+    "alternate_name": "Mr. Nuno Sampaio",
+    "alternate_title": "Secretary of State for Cooperation and Foreign Affairs"
+  },
+  {
+    "record_id": "governor:Qatar",
+    "economy": "Qatar",
+    "governor_name": "Mr. Ali bin Ahmed Al-Kuwari",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Khalaf Ahmed Al Mannai",
+    "alternate_title": "Undersecretary of the Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Romania",
+    "economy": "Romania",
+    "governor_name": "Mr. Florin-Alexandru Zaharia",
+    "governor_title": "State Secretary, Ministry of Finance",
+    "alternate_name": "Mrs. Boni Florinela Cucu",
+    "alternate_title": "General Director, Ministry of Public Finance"
+  },
+  {
+    "record_id": "governor:Russia",
+    "economy": "Russia",
+    "governor_name": "Mr. Maksim Reshetnikov",
+    "governor_title": "Minister of Economic Development",
+    "alternate_name": "Mr. Ivan Chebeskov",
+    "alternate_title": "Deputy Minister of Finance"
+  },
+  {
+    "record_id": "governor:Rwanda",
+    "economy": "Rwanda",
+    "governor_name": "Mr. Yusuf Murangwa",
+    "governor_title": "Minister of Finance and Economic Planning",
+    "alternate_name": "Ms. Linda Mutesi Rusagara",
+    "alternate_title": "Minister of State in charge of Public Investment and Resource Mobilization, Ministry of Finance and Economic Planning"
+  },
+  {
+    "record_id": "governor:Samoa",
+    "economy": "Samoa",
+    "governor_name": "Ms. Mulipola Anarosa Ale Molioo",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mrs. Saoleititi Maeva Betham-Vaai",
+    "alternate_title": "Chief Executive Officer, Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Saudi Arabia",
+    "economy": "Saudi Arabia",
+    "governor_name": "Mr. Mohammed Al-Jadaan",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Abdulmuhsen S. Alkhalaf",
+    "alternate_title": "Vice Minister of Finance"
+  },
+  {
+    "record_id": "governor:Serbia",
+    "economy": "Serbia",
+    "governor_name": "Mr. Siniša Mali",
+    "governor_title": "First Deputy Prime Minister and Minister of Finance",
+    "alternate_name": "Ms. Jagoda Lazarević",
+    "alternate_title": "Minister of Domestic and Foreign Trade"
+  },
+  {
+    "record_id": "governor:Senegal",
+    "economy": "Senegal",
+    "governor_name": "Mr. Cheikh Diba",
+    "governor_title": "Minister of Economy, Finance and Planning",
+    "alternate_name": "Mr. Bassirou Sarr",
+    "alternate_title": "Minister in charge of the Budget"
+  },
+  {
+    "record_id": "governor:Singapore",
+    "economy": "Singapore",
+    "governor_name": "Ms. Indranee Rajah",
+    "governor_title": "Minister in the Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development",
+    "alternate_name": "Mr. Lai Chung Han",
+    "alternate_title": "Permanent Secretary (Finance)"
+  },
+  {
+    "record_id": "governor:South Africa",
+    "economy": "South Africa",
+    "governor_name": "Mr. Enoch Godongwana",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Dr. Duncan Pieterse",
+    "alternate_title": "Director-General of National Treasury"
+  },
+  {
+    "record_id": "governor:Spain",
+    "economy": "Spain",
+    "governor_name": "Mr. Carlos Cuerpo Caballero",
+    "governor_title": "Minister for Economy, Trade and Enterprise",
+    "alternate_name": "Mrs. Paula Conthe Calvo",
+    "alternate_title": "Secretary General of the Treasury and International Financing"
+  },
+  {
+    "record_id": "governor:Sri Lanka",
+    "economy": "Sri Lanka",
+    "governor_name": "Mr. Anura Kumara Dissanayake",
+    "governor_title": "Minister of Finance, Economic Development, Policy Formulation, Planning and Tourism",
+    "alternate_name": "Dr. Harshana Suriyapperuma",
+    "alternate_title": "Secretary to the Ministry of Finance, Planning and Economic Development"
+  },
+  {
+    "record_id": "governor:Sudan",
+    "economy": "Sudan",
+    "governor_name": "Dr. Gibril Ibrahim Mohamed",
+    "governor_title": "Minister of Finance and Economic Planning",
+    "alternate_name": "Ms. Amna Mirghani Hassan Altom",
+    "alternate_title": "Governor of the Central Bank of Sudan"
+  },
+  {
+    "record_id": "governor:Sweden",
+    "economy": "Sweden",
+    "governor_name": "Ms. Elisabeth Svantesson",
+    "governor_title": "Minister for Finance",
+    "alternate_name": "Ms. Johanna Lybeck Lilja",
+    "alternate_title": "State Secretary to the Minister for Finance"
+  },
+  {
+    "record_id": "governor:Switzerland",
+    "economy": "Switzerland",
+    "governor_name": "Mr. Pietro Lazzeri",
+    "governor_title": "Head of Economic Cooperation and Development, State Secretariat for Economic Affairs (SECO)",
+    "alternate_name": "Ms. Veronique Hulmann Marti",
+    "alternate_title": "Vice Director General, Head of the Asia-Americas Division, Swiss Agency for Development and Cooperation (SDC)"
+  },
+  {
+    "record_id": "governor:Tajikistan",
+    "economy": "Tajikistan",
+    "governor_name": "Mr. Sulton Rahimzoda",
+    "governor_title": "Chairman of the State Committee on Investments and State Property Management",
+    "alternate_name": "Mr. Ismoilzoda Khurshed Ismoil",
+    "alternate_title": "Head of the Secretariat of the President of the Republic of Tajikistan on Economy and Investments"
+  },
+  {
+    "record_id": "governor:Tanzania",
+    "economy": "Tanzania",
+    "governor_name": "Amb. Khamis Mussa Omar",
+    "governor_title": "Minister for Finance",
+    "alternate_name": "Dr. Natu El-maamry Amir Mwamba",
+    "alternate_title": "Permanent Secretary, Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Thailand",
+    "economy": "Thailand",
+    "governor_name": "Mr. Ekniti Nitithanprapas",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mr. Lavaron Sangsnit",
+    "alternate_title": "Permanent Secretary of the Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Timor-Leste",
+    "economy": "Timor-Leste",
+    "governor_name": "Ms. Santina José Rodrigues Ferreira Viegas Cardoso",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "",
+    "alternate_title": ""
+  },
+  {
+    "record_id": "governor:Togo",
+    "economy": "Togo",
+    "governor_name": "Mr. Essowè Georges Barcola",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Ekpao Adjabo",
+    "alternate_title": "Director General of Treasury and Public Accounting"
+  },
+  {
+    "record_id": "governor:Tonga",
+    "economy": "Tonga",
+    "governor_name": "Vika Sivoki Lavemaau",
+    "governor_title": "Minister of Finance",
+    "alternate_name": "Mrs. Kilisitina Moala-Tuaimei'api",
+    "alternate_title": "Chief Executive Officer, Ministry of Finance"
+  },
+  {
+    "record_id": "governor:Tunisia",
+    "economy": "Tunisia",
+    "governor_name": "Mr. Samir Abdelhafidh",
+    "governor_title": "Minister of Economy and Planning",
+    "alternate_name": "Mrs. Emna Araar Guesmi",
+    "alternate_title": "Director General for European Cooperation"
+  },
+  {
+    "record_id": "governor:Türkiye",
+    "economy": "Türkiye",
+    "governor_name": "Mr. Mehmet Şimşek",
+    "governor_title": "Minister of Treasury and Finance",
+    "alternate_name": "Mr. Kutluhan Taşkın",
+    "alternate_title": "Deputy Minister of Treasury and Finance"
+  },
+  {
+    "record_id": "governor:United Arab Emirates",
+    "economy": "United Arab Emirates",
+    "governor_name": "Dr. Sultan Al Jaber",
+    "governor_title": "Minister of Industry and Advanced Technology",
+    "alternate_name": "Mr. Mohammed Saif Al Suwaidi",
+    "alternate_title": "Director General of Abu Dhabi Fund for Development"
+  },
+  {
+    "record_id": "governor:United Kingdom",
+    "economy": "United Kingdom",
+    "governor_name": "Mr. John Healey",
+    "governor_title": "Chancellor of the Exchequer",
+    "alternate_name": "Ms. Lindsey Whyte",
+    "alternate_title": "Director General International Finance, H.M. Treasury"
+  },
+  {
+    "record_id": "governor:Uruguay",
+    "economy": "Uruguay",
+    "governor_name": "Mr. Gabriel Oddone",
+    "governor_title": "Minister of Economy and Finance",
+    "alternate_name": "Mr. Martin Vallcorba",
+    "alternate_title": "Undersecretary of the Ministry of Economy and Finance"
+  },
+  {
+    "record_id": "governor:Uzbekistan",
+    "economy": "Uzbekistan",
+    "governor_name": "Mr. Laziz Kudratov",
+    "governor_title": "Minister of Investment, Industry and Trade",
+    "alternate_name": "Mr. Ilkhom Umrzakov",
+    "alternate_title": "Deputy Minister of the Economy and Finance"
+  },
+  {
+    "record_id": "governor:Vanuatu",
+    "economy": "Vanuatu",
+    "governor_name": "Mr. Johnny Koanapo Rasou",
+    "governor_title": "Deputy Prime Minister and Minister of Finance and Economic Management",
+    "alternate_name": "Mr. Roan Lester Sunghk",
+    "alternate_title": "Director General of the Ministry of Finance and Economic Management"
+  },
+  {
+    "record_id": "governor:Viet Nam",
+    "economy": "Viet Nam",
+    "governor_name": "Mr. Pham Duc An",
+    "governor_title": "Governor of the State Bank of Viet Nam",
+    "alternate_name": "Mr. Nguyen Ngoc Canh",
+    "alternate_title": "Deputy Governor of State Bank of Viet Nam"
+  }
+]
