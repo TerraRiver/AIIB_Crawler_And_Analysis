@@ -47,3 +47,6 @@ data/institutions/*
 
 # 文献资料库（知网 PDF 与 57 篇智库/媒体全文，走共享盘同步）
 papers/
+
+# 本地打包生成的协作压缩包（通过网盘 / Syncthing 分发，不进 Git）
+dist_bundles/
